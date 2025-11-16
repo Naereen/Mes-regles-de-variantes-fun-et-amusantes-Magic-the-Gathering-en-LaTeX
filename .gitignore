@@ -1,3 +1,7 @@
+## Useless folders
+.vscode/
+*~
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
