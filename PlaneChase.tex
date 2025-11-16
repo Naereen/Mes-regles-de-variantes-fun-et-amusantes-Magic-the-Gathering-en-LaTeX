@@ -1,0 +1,147 @@
+\documentclass{adsdoc}
+
+\newcommand{\doctitle}{Variante en EDH Commander : le voyage sur les plans « Planechase »}
+
+\title{
+    \vspace*{-1cm}
+    Variante EDH Commander : le « Planechase »\\
+    \Large{Partez explorer ensemble des plans variés du Multivers}\\
+    {
+        \large
+    \vspace*{0.2cm}
+    -- \textbf{Nombre de joueurs :} 3 à 6 joueurs (idéalement 4) \\
+    -- \textbf{Durée d'une partie :} plus aléatoire qu'une partie d'EDH standard, peut être plus rapide ou plus long (1H à 2H) \\
+    -- \textbf{Matériel requis :} un petit paquet des 40 cartes « Planechase » fourni, en plus de vos decks d'EDH préférés
+    }
+}
+\date{}
+
+\usepackage{enumitem}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+
+\maketitle
+\thispagestyle{fancy}
+
+\vspace*{-1.5cm}
+
+\noindent
+
+La variante \textbf{Planechase} ajoute une dose d'originalité et une touche unique à vos parties de \textbf{Magic: The Gathering} au format EDH, grâce à une pile commune de cartes de « plans » placées au centre de la table.
+
+Explorez les plans du Multivers, en changeant à loisir de plans ou en exploitant au mieux la puissance du plan actuel !
+Attention aux « phénomènes » aléatoires, au Chaos et aux changements de plan soudains qui peuvent bouleverser la partie !
+
+\begin{center}
+    \includegraphics[width=0.47\linewidth]{images/ohop-1-academy-at-tolaria-west.jpg}
+    \includegraphics[width=0.47\linewidth]{images/moc-151-mutual-epiphany.jpg}
+\end{center}
+
+Dans \textbf{Magic: The Gathering}, un \emph{plan} est un lieu d'existence distinct dans le multivers, avec ses propres caractéristiques et règles.
+Vous incarnez chacun un Planewalker, un être puissant capable de voyager entre ces plans (mais ça, vous le saviez déjà).
+La variante « Planechase » propose d'ajouter des cartes de plan au centre de la table, qui affectent tous les joueurs.\\
+Si besoin (en anglais) : \url{mtg.wiki/page/Planechase_(format)}\\
+Ce format est présent dans les règles officielles de Magic (§ 901. Planechase), mais reste assez peu connu !\\
+
+L'idée est d'utiliser des \textbf{cartes « Planechase »}, qui représentent un plan d'existence différent dans le multivers de Magic (Ex. la forêt de Llanowar sur Dominaria).
+Chaque zone d'un plan ajoute des capacités spéciales qui affectent tous les joueurs (Ex. +0/+2 aux créatures, utiliser leur endurance pour attaquer, etc.).
+
+Voici les règles de la variante « Planechase ».
+
+\newpage
+
+\subsection*{Distribution des « dés planaires « et placement du deck planaire}
+
+\begin{itemize}
+    \item Choisissez d'abord le niveau de votre table, puis chaque personne choisit son deck, comme dans une partie standard.
+    \item \textbf{Mélange initial des cartes ``Planechase''} : mélangez le deck de cartes ``Planechase'', et placez-le face cachée au milieu de la table (près de la tablette ou du téléphone qui montre les points de vie).
+    \item Distribuez un « dé planaire » à chacun des joueurs. Ce dé spécial\footnote{Si vous n'avez pas de dé planaire, utilisez un D6 classique en convenant que le 6 correspond au « Planewalk » et le 1 au « Chaos ».} à six faces est utilisé pour activer les capacités planaires. Il comporte les faces suivantes :
+    \begin{itemize}[label=$\bullet$]
+        \item 1 face « Planewalk » (symbole de portail)
+        \includegraphics[height=1em]{images/planar dice planewalk.png}
+        \item 4 faces vides (blanches)
+        \item 1 face « Chaos » (symbole de chaos)
+        \includegraphics[height=1em]{images/planar dice chaos.png}
+    \end{itemize}
+\end{itemize}
+
+% \subsection*{Cartes de Plan et Phénomènes}
+% \begin{itemize}
+%     \item Le deck planaire de chaque joueur réside dans la Zone de Commandement.
+%     \item La carte de Plan ou de Phénomène face visible est également dans la Zone de Commandement.
+%     \item Les capacités statiques, déclenchées et activées de la carte face visible fonctionnent depuis cette zone.
+% \end{itemize}
+
+\subsection*{Début de Partie (Règle 901.5)}
+Après les mulligans et la pioche des mains de départ :
+\begin{enumerate}
+    \item Le joueur qui commence la partie révèle la carte du dessus du deck planaire commun.
+    \item Si c'est une carte de Plan, elle devient le Plan de départ.
+    \item Si c'est une carte de Phénomène, le joueur la met au-dessous du deck planaire commun, et révèle la carte suivante. Il répète ce processus jusqu'à ce qu'une carte de Plan soit face visible.
+\end{enumerate}
+
+% \subsection*{Contrôleur Planaire (Règle 901.6)}
+% \begin{itemize}
+%     \item Le contrôleur planaire est normalement le joueur actif (celui dont c'est le tour).
+%     \item Si le contrôleur planaire actuel doit quitter la partie, le joueur suivant dans l'ordre du tour qui ne quitte pas la partie devient le nouveau contrôleur planaire. Ensuite, l'ancien contrôleur planaire quitte la partie.
+%     \item Si le propriétaire du Plan actif quitte la partie, le contrôleur planaire (le joueur actif) révèle la carte du dessus de son propre deck planaire.
+% \end{itemize}
+
+\section*{Lancer le Dé Planaire}
+
+\subsection*{Moment et Coût (Règle 901.9)}
+\begin{itemize}
+    \item L'action de lancer le Dé Planaire est une \textbf{action spéciale} qui n'utilise pas la pile.
+    \item Elle peut être effectuée par le joueur actif uniquement \textbf{pendant une phase principale} de son tour, lorsque la pile est vide et qu'il a la priorité.
+    \item Le coût en mana est égal au nombre de fois où ce joueur a déjà effectué cette action ce tour-ci. Le coût est payé avec du mana de n'importe quelle couleur, provenant de n'importe quelle source, sans passer par la pile.
+    (Ex: $1^{\text{er}}$ lancer coûte $\mathbf{0}$, $2^{\text{ème}}$ lancer coûte $\mathbf{1}$, $3^{\text{ème}}$ lancer coûte $\mathbf{2}$, etc.)
+\end{itemize}
+
+\subsection*{Résultats du Lancer}
+\begin{itemize}
+    \item \textbf{Face Blanche (4 chances sur 6)} : Rien ne se passe. Le joueur actif récupère la priorité.
+    \item \textbf{Symbole Chaos (1 chance sur 6)} \includegraphics[height=1em]{images/planar dice chaos.png} : Le « Chaos S'ensuit » (Chaos Ensuing). La capacité de Chaos du Plan actif se déclenche et est mise sur la pile.
+    \item \textbf{Symbole Planeswalker (1 chance sur 6)} \includegraphics[height=1em]{images/planar dice planewalk.png} : La « Capacité de Planeswalker » se déclenche. Cette capacité déclenchée est mise sur la pile et se résout en faisant \emph{Planeswalker}.
+\end{itemize}
+
+\subsection*{Planeswalker (Changement de Plan)}
+
+L'action de \emph{Planeswalker} se produit lorsqu'une carte de Plan/Phénomène face visible est retirée et qu'une nouvelle est révélée.
+
+\begin{enumerate}
+    \item La carte de Plan ou de Phénomène active est mise au-dessous du deck planaire.
+    \item Le joueur qui a provoqué l'action de \emph{Planeswalker} révèle la carte du dessus du deck planaire.
+    \item Si c'est un Plan, il devient le nouveau Plan actif.
+    \item Si c'est un Phénomène, ses effets se produisent, puis le Phénomène est mis au-dessous du deck planaire, et le joueur révèle la carte suivante (répéter jusqu'à trouver un Plan).
+\end{enumerate}
+
+\paragraph{Conséquences du Planeswalk (Règle 901.11)}
+\begin{itemize}
+    \item Les effets continus dont la durée s'étend « jusqu'à ce qu'un joueur planeswalk » prennent fin.
+    \item Les capacités qui se déclenchent « lorsqu'un joueur planeswalk » se déclenchent.
+\end{itemize}
+
+\subsection*{D'autres exemples de cartes de Plans}
+
+\hfill{}
+
+\begin{center}
+    \includegraphics[width=0.45\linewidth]{images/ohop-32-sanctum-of-serra.jpg}
+    \includegraphics[width=0.45\linewidth]{images/ohop-22-llanowar.jpg}
+    % \includegraphics[width=0.31\linewidth]{images/moc-151-mutual-epiphany.jpg}
+\end{center}
+
+\hfill{}
+
+\subsection*{Avec d'autres variantes ?}
+
+Ce mode de jeu « Planechase » est compatible avec d'autres variantes, comme « Shogun », « Treachery » ou « Vanguard » !
+
+Nous avons déjà testé une partie à quatre joueurs avec « Shogun », « Planechase » \textbf{et} « Planechase », en même temps.
+Cela marche très bien, il faut juste être bien concentré !
+
+\hfill{}
+
+\end{document}
