@@ -3,11 +3,11 @@
 Ce dépôt GitHub héberge le code source en LaTeX, ainsi que les illustrations (JPEG et PNG) nécessaires à la compilation des documents, pour une série de petits documents PDF que j'ai produit en novembre 2025.
 Ces documents servent à présenter mes règles de variantes fun et amusantes, à Magic: the Gathering, pour [l'événement Fumble Corp organisé par l'association éponyme, en novembre 2025](https://mtg.fumblecorp.com/).
 
-![Logo de la Fumble Corp](logofumble.png)
+<img src="logofumble.png" alt="Logo de la Fumble Corp" width="200"/>
 
 Ce weekend, j'étais présent avec un stand au nom de l'association [des Arpenteurs de Strasbourg](https://arpenteursdestrasbourg.netlib.re/), pour faire découvrir des variantes originales de **Magic: The Gathering** aux visiteurs, et organiser des parties de Magic en format EDH (Commander) ou d'autres formats, avec des variantes amusantes.
 
-![Logo des Arpenteurs de Strasbourg](logo.png)
+<img src="logo.png" alt="Logo de l'association Les Arpenteurs de Strasbourg" width="200"/>
 
 -----
 
