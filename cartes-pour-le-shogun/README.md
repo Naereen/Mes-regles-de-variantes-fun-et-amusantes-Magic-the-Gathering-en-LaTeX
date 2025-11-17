@@ -10,7 +10,26 @@ C'est un mode de jeu alternatif à Magic: the Gathering, à rôles cachés, pour
 
 Le Shogun se veut une simplification mode « Treachery » qui est présenté et disponible sur [le site officiel MTGtreachery.net](https://mtgtreachery.net/fr/#howto).
 
-## Règles rapides du mode de jeu alternatif en EDH - Shogun
+### 🏯 Mode de jeu alternatif en EDH — Shogun 🏯
+
+(Si tout le monde est d'accord, vous jouerez avec les règles du mode de jeu Shogun.)
+
+#### I. Rôle et Condition de Victoire
+
+Le rôle de chacun(e) dictera sa condition de victoire :
+
+* **Le Shogun** gagne s'il élimine les **Assassins**.
+* **Les Assassins** gagnent inversement, s'ils éliminent le Shogun.
+
+#### II. Rôles Spéciaux
+
+* **La Protectrice** gagne si **le Shogun gagne** (elle peut mourir).
+* **Le Traître** gagne s'il **survit à la fin, seul**.
+
+#### III. Mise en Place
+
+1.  Distribuez un rôle aléatoire à chacun.
+2.  **Le Shogun se révèle** et commence !
 
 ![Mode de jeu alternatif en EDH - Shogun](explications.png)
 

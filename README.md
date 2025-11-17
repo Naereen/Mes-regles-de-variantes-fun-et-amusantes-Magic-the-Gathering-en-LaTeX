@@ -45,6 +45,14 @@ La [variante Vanguard](https://mtg.wiki/page/Vanguard_(format)) ajoute des rôle
 
 Le document LaTeX correspondant est dans le fichier [Vanguard.tex](Vanguard.tex) et le PDF est là : [Vanguard.pdf](Vanguard.pdf).
 
+### Le Shogun
+
+La [variante Shogun](https://mtg.wiki/page/Shogun) est une variante amusante, qui introduit des rôles cachés et des conditions de victoire asymétriques, en format EDH (Commander).
+
+![screenshot de démo du document « Shogun.pdf »](screenshots/demo-Shogun.png)
+
+Le document LaTeX correspondant est dans le fichier [Shogun.tex](Shogun.tex) et le PDF est là : [Shogun.pdf](Shogun.pdf).
+
 -----
 
 ## Comment générer les documents ?
