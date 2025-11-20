@@ -53,6 +53,23 @@ La [variante Shogun](https://mtg.wiki/page/Shogun) est une variante amusante, qu
 
 Le document LaTeX correspondant est dans le fichier [Shogun.tex](Shogun.tex) et le PDF est là : [Shogun.pdf](Shogun.pdf).
 
+### Le Treachery
+
+La [variante Treachery](https://mtg.wiki/page/Treachery) est une variante comme le Shogun, mais encore plus compliquée. Cette vaiante introduit ausi des rôles cachés et des conditions de victoire asymétriques, en format EDH (Commander), mais ajoute des capacités uniques et puissantes, que chaque joueur ne peut utiliser qu'une seule fois dans la partie, en se révélant.
+Le site officiel de cette variante est [MTGTreachery.net](https://mtgtreachery.net/fr/).
+
+![screenshot de démo du document « Treachery.pdf »](screenshots/demo-Treachery.png)
+
+Le document LaTeX correspondant est dans le fichier [Treachery.tex](Treachery.tex) et le PDF est là : [Treachery.pdf](Treachery.pdf).
+
+### Le Dandân
+
+La [variante Dandân](https://mtg.wiki/page/Dandân) est une façon bien particulière de jouer à Magic, en duel uniquement, avec un deck mono-bleu partagé, qui est très orienté « contrôle », et seulement dix exemplaires d'une unique créature, le « Dandân », qui meurt si vous ne contrôlez plus d'île, et ne peut pas attaquer l'adversaire s'il ne contrôle pas d'île.
+
+![screenshot de démo du document « Dandân.pdf »](screenshots/demo-Dandân.png)
+
+Le document LaTeX correspondant est dans le fichier [Dandan.tex](Dandan.tex) et le PDF est là : [Dandan.pdf](Dandan.pdf).
+
 -----
 
 ## Comment générer les documents ?
