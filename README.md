@@ -66,7 +66,7 @@ Le document LaTeX correspondant est dans le fichier [Treachery.tex](Treachery.te
 
 La [variante Dandân](https://mtg.wiki/page/Dandân) est une façon bien particulière de jouer à Magic, en duel uniquement, avec un deck mono-bleu partagé, qui est très orienté « contrôle », et seulement dix exemplaires d'une unique créature, le « Dandân », qui meurt si vous ne contrôlez plus d'île, et ne peut pas attaquer l'adversaire s'il ne contrôle pas d'île.
 
-![screenshot de démo du document « Dandân.pdf »](screenshots/demo-Dandân.png)
+![screenshot de démo du document « Dandân.pdf »](screenshots/demo-Dandan.png)
 
 Le document LaTeX correspondant est dans le fichier [Dandan.tex](Dandan.tex) et le PDF est là : [Dandan.pdf](Dandan.pdf).
 
