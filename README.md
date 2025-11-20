@@ -53,11 +53,19 @@ Le document LaTeX correspondant est dans le fichier [PlaneChase.tex](PlaneChase.
 
 ### Arch-Enemy
 
-La [variante Arch- Enemy](https://mtg.wiki/page/Archenemy_(format)) ajoute elle aussi une dose d'originalité à une partie de **Magic: The Gathering** au format EDH, en faisant s'affronter une équipe de "héros" contre un "ennemi juré", qui sera surpuissant. L'ennemi juré dispose de points de vie supplémentaires et d'un deck spécial de cartes de machinations pour l'aider à affronter l'équipe des héros.
+La [variante Arch Enemy](https://mtg.wiki/page/Archenemy_(format)) ajoute elle aussi une dose d'originalité à une partie de **Magic: The Gathering** au format EDH, en faisant s'affronter une équipe de "héros" contre un "ennemi juré", qui sera surpuissant. L'ennemi juré dispose de points de vie supplémentaires et d'un deck spécial de cartes de machinations pour l'aider à affronter l'équipe des héros.
 
 ![screenshot de démo du document « Arch-Enemy.pdf »](screenshots/demo-Arch-Enemy.png)
 
 Le document LaTeX correspondant est dans le fichier [Arch-Enemy.tex](Arch-Enemy.tex) et le PDF est là : [Arch-Enemy.pdf](Arch-Enemy.pdf).
+
+### Horde Magic
+
+La [variante Horde Magic](https://hordemagic.com/) (aussi sur ce site [https://against-the-horde.com/](https://against-the-horde.com/)) change radicalement la manière de jouer en EDH, en vous proposant de vous unir à 1/2/3/4 joueurs et d'affronter une Horde quasi infinie d'ennemis, qui seront pilotés automatiquement. Imaginez un peu, des vagues successives d'ennemis, avec des boss redoutables, que vous devrez vaincre en équipe ! Des Zombies, des Slivoïdes, ou d'autres !
+
+![screenshot de démo du document « Hordes.pdf »](screenshots/demo-Hordes.png)
+
+Le document LaTeX correspondant est dans le fichier [Hordes.tex](Hordes.tex) et le PDF est là : [Hordes.pdf](Hordes.pdf).
 
 ### Vanguard
 
