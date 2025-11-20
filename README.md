@@ -11,11 +11,11 @@ Ce weekend, je serais / je suis / j'étais présent avec un stand au nom de l'as
 
 ## Auteur et remerciements
 
-L'auteur de ces documents est [Lilian (Naereen)](https://github.com/Naereen/), un joueur passioné de **Magic: The Gathering** depuis 2003, actif à Strasbourg depuis 2021. Je suis secrétaire et membre actif de l'association des Arpenteurs de Strasbourg et de l'association Cartes Flambées, et un arbitre Magic certifié niveau L1 (Judge Academy en 2023, International Judge Program en 2024).
+L'auteur de ces documents est [Lilian (Naereen)](https://github.com/Naereen/), un joueur passionné de **Magic: The Gathering** depuis 2003, actif à Strasbourg depuis 2021. Je suis secrétaire et membre actif de l'association des Arpenteurs de Strasbourg et de l'association Cartes Flambées, et un arbitre Magic certifié niveau L1 (Judge Academy en 2023, International Judge Program en 2024).
 
 - Je tiens à remercier Vincent pour les relectures et suggestions d'amélioration des documents.
 - Je tiens à remercier tous les joueurs et les joueuses avec qui j'ai testé ces variantes, et qui m'ont aidé à améliorer les règles, notamment en 2024 et 2025.
-- Merci tout particulièrement à Mathieu de Vent Divin (pour les cartes Pictionary utilisées dans la « Party Box »), et aux copains de « Hero Quest » pour nos soirées qui finissent autour de la « Judge Tower ».
+- Merci tout particulièrement à Mathieu de Vent Divin (pour les cartes *Pictionary*, utilisées dans la « Party Box »), et aux copains de « Hero Quest » pour nos soirées qui finissent autour de la « Judge Tower ».
 
 -----
 
@@ -45,7 +45,7 @@ Le document LaTeX correspondant est dans le fichier [Party-Box.tex](Party-Box.te
 
 ### Planechase
 
-La [variante Planechase](https://mtg.wiki/page/Planechase) ajoute une dose d'originalité et une touche unique à vos parties de Magic: The Gathering au format EDH, grâce à une pile commune de cartes de « plans » placées au centre de la table. Ces plans influencent la partie avec des effets globaux, et les joueurs peuvent lancer un dé planaire pour provoquer des événements aléatoires, comme des changements de plan ou des phénomènes imprévus.
+La [variante Planechase](https://mtg.wiki/page/Planechase) ajoute une dose d'originalité et une touche unique à vos parties de **Magic: The Gathering** au format EDH, grâce à une pile commune de cartes de « plans » placées au centre de la table. Ces plans influencent la partie avec des effets globaux, et les joueurs peuvent lancer un dé planaire pour provoquer des événements aléatoires, comme des changements de plan ou des phénomènes imprévus.
 
 ![screenshot de démo du document « PlaneChase.pdf »](screenshots/demo-PlaneChase.png)
 
@@ -53,7 +53,7 @@ Le document LaTeX correspondant est dans le fichier [PlaneChase.tex](PlaneChase.
 
 ### Arch-Enemy
 
-La [variante Arch- Enemy](https://mtg.wiki/page/Archenemy_(format)) ajoute lui aussi une dose d'originalité à une partie de Magic: The Gathering au format EDH, en faisant s'affronter une équipe de "héros" contre un "ennemi juré", qui sera surpuissant. L'ennemi juré dispose de points de vie supplémentaires et d'un deck spécial de cartes de machinations pour l'aider à affronter l'équipe des héros.
+La [variante Arch- Enemy](https://mtg.wiki/page/Archenemy_(format)) ajoute elle aussi une dose d'originalité à une partie de **Magic: The Gathering** au format EDH, en faisant s'affronter une équipe de "héros" contre un "ennemi juré", qui sera surpuissant. L'ennemi juré dispose de points de vie supplémentaires et d'un deck spécial de cartes de machinations pour l'aider à affronter l'équipe des héros.
 
 ![screenshot de démo du document « Arch-Enemy.pdf »](screenshots/demo-Arch-Enemy.png)
 
@@ -101,7 +101,7 @@ Le document LaTeX correspondant est dans le fichier [Dandan.tex](Dandan.tex) et 
 ## Comment générer ces documents ?
 
 - Compilez avec `LaTeX` (avec `pdflatex`), par exemple avec la commande `latexmk -pdflatex *.tex` dans le répertoire racine du dépôt GitHub, pour générer les fichiers PDF.
-- Il faut avoir une distribution LaTeX complète installée, avec les paquets standards usuels. Rien d'hors du commun n'est nécessaire.
+- Il faut avoir une distribution LaTeX complète installée, avec les paquets standards usuels. Rien d'exotique n'est nécessaire.
 
 > Testé uniquement sur Ubuntu 24.04, mais devrait marcher sur d'autres Linux de la famille Debian. Probablement fonctionnel sur Windows avec WSL. Et sur Mac avec `brew` et `gnu make` installés.
 
