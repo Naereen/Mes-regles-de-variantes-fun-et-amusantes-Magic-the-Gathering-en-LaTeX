@@ -53,6 +53,12 @@ La [variante Shogun](https://mtg.wiki/page/Shogun) est une variante amusante, qu
 
 Le document LaTeX correspondant est dans le fichier [Shogun.tex](Shogun.tex) et le PDF est là : [Shogun.pdf](Shogun.pdf).
 
+### Dândan
+
+Le [format Dândan](https://mtg.wiki/page/Forgetful_Fish) (aussi appelé « Forgetful Fish ») est un format ultra-accessible et rapide, idéal pour des parties de duel avec des decks de seulement 5 cartes.
+
+Le document LaTeX correspondant est dans le fichier [Dandan.tex](Dandan.tex) et le PDF sera là : [Dandan.pdf](Dandan.pdf).
+
 -----
 
 ## Comment générer les documents ?
