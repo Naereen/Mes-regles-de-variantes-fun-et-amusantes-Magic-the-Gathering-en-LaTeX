@@ -1,6 +1,9 @@
 ## Useless folders
 .vscode/
+
+## Useless files
 *~
+*.zip
 
 ## Core latex/pdflatex auxiliary files:
 *.aux
